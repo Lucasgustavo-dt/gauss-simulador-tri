@@ -25,13 +25,17 @@ Projeto em desenvolvimento...
 ---
 ## Versão atual do projeto
 
-Até aqui, o projeto realiza uma simulação simples de respostas de um aluno, considerando:
-- questões objetivas
-- acertos e erros
-- pesos diferentes por questão
-- cálculo de pontuação total
+Até aqui, o GAUSS realiza uma simulação estruturada de correção, considerando:
 
-Quero estruturar a base lógica do simulador antes da evolução para regras mais próximas da TRI.
+- banco de questões com nível de dificuldade
+- gabarito oficial
+- respostas do aluno
+- cálculo de acertos e erros
+- pontuação ponderada por dificuldade
+- regra inicial de coerência inspirada na TRI
+- classificação simples de desempenho
+
+O objetivo desta fase é construir uma base lógica sólida para a futura evolução do simulador em direção a um modelo probabilístico mais próximo da TRI real.
 
 ## Estrutura do projeto
 

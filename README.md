@@ -20,7 +20,7 @@ Criar uma estrutura capaz de estimar o desempenho de um aluno com base em padrõ
 
 ## Status
 
-Projeto em desenvolvimento 🚧
+Projeto em desenvolvimento...
 
 ---
 

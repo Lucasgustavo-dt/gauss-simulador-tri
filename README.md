@@ -33,7 +33,7 @@ Até aqui, o projeto realiza uma simulação simples de respostas de um aluno, c
 
 Quero estruturar a base lógica do simulador antes da evolução para regras mais próximas da TRI.
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 - `notebooks/` → protótipos e simulações iniciais
 - `data/` → arquivos de dados utilizados no projeto

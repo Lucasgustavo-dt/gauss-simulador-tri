@@ -23,6 +23,22 @@ Criar uma estrutura capaz de estimar o desempenho de um aluno com base em padrõ
 Projeto em desenvolvimento...
 
 ---
+## Versão atual do projeto
+
+Até aqui, o projeto realiza uma simulação simples de respostas de um aluno, considerando:
+- questões objetivas
+- acertos e erros
+- pesos diferentes por questão
+- cálculo de pontuação total
+
+Quero estruturar a base lógica do simulador antes da evolução para regras mais próximas da TRI.
+
+## 📂 Estrutura do projeto
+
+- `notebooks/` → protótipos e simulações iniciais
+- `data/` → arquivos de dados utilizados no projeto
+- `src/` → código-fonte principal
+---
 
 ## Autor
 
